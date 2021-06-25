@@ -8,7 +8,7 @@ You will find addition information in the project presentation.
 
 ## Acquisition:
 
-Gathering information using Crawling from 2 different websites.
+Gathering information using Crawling from 2 different websites:
 
 * Basketball Reference 
 * Real GM
