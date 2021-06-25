@@ -24,4 +24,5 @@ Exploring & improving the data
 * Explaining the data through graphs
 
 ## Machine Learning
+* Using linear and logistic regressions
 * Using Naive Bayes algorithm to independed graphs
