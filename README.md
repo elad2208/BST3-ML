@@ -1,11 +1,13 @@
 # Best of three-ML
 
-Main Purpose
+Main Purpose:
+
 Predicting the good NBA players in three-point shooting, using data mining and machine learning.
 
 You will find addition information in the project presentation.
 
-Acquisition
+Acquisition:
+
 Gathering information using Crawling from 2 different websites.
 
 a.Basketball Reference 
