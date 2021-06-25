@@ -5,7 +5,8 @@
 Predicting the good NBA players in three-point shooting, using data mining and machine learning.
 
 You will find addition information in the project presentation.
-
+ 
+ 
 ## Acquisition
 
 Gathering information using Crawling from 2 different websites:
